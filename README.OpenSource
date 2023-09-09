@@ -1,7 +1,7 @@
 [
     {
         "Name": "chromium_third_party_openscreen_tinycbor",                   # 上游开源软件名全称
-        "License": "Khronos License","GPL-2.0-with-bison-exception","GPL-3.0+","Khronos Group License"        # 上游开源软件中包含的许可证信息
+        "License":       # 上游开源软件中包含的许可证信息
         "License File":"LICENSE"       # 许可证所在文件路径
         "Version Number": "fc42a049853b802e45f49588f8148fc29d7b4d9c",
         "Upstream URL": "https://chromium.googlesource.com/external/github.com/intel/tinycbor.git@fc42a049853b802e45f49588f8148fc29d7b4d9c",   # 上游软件包发布地址
