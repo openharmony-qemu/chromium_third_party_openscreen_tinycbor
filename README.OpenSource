@@ -6,6 +6,6 @@
         "Version Number": "fc42a049853b802e45f49588f8148fc29d7b4d9c",
         "Owner": "huangjiewen2@huawei.com",
         "Upstream URL": "https://chromium.googlesource.com/external/github.com/intel/tinycbor.git@fc42a049853b802e45f49588f8148fc29d7b4d9c",
-        "Description": "第三方软件openscreen"
+        "Description": "第三方软件openscreen，可用于身份验证和验证、区块链集成、广告和活动、资产管理、交互式应用程序和客户管理"
     }
 ]
